@@ -1,12 +1,12 @@
 {
   "name": "@brockreece/babel-plugin-console-identifier",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "Babel plugin for printing identifier name along side identifier",
+  "main": "src/index.js",
   "scripts": {
     "test": "jest"
   },
-  "keywords": [],
+  "keywords": ["babel", "plugin", "console", "identifier"],
   "author": "Brock Reece (brockreece@gmail.com)",
   "license": "ISC",
   "devDependencies": {
